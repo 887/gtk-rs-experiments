@@ -1,0 +1,12 @@
+/builddir
+/target/
+/release/
+/data/gschemas.compiled
+/data/resources.gresource
+**/*.rs.bk
+rusty-tags.vi
+.vscode
+**/*.ui~
+**/*.glade~
+**/*.glade#
+
